@@ -1,5 +1,44 @@
-# FCC Test Suite Template
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+# Apply best practices in HTML code
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+> This project illustrates how to properly format a web page using HTML5 semantic and efficient use and application of CSS filer.
+For quality assurance, linters and code reviewers were engaged 
+
+
+
+## Built With
+
+- HTML CSS
+- Github flow
+- VSCode
+
+## Authors
+Alfred Kinyua
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/EasyPanther/)
+- Twitter: [@twitterhandle](@alfkinyua)
+- LinkedIn: [LinkedIn](linkedin.com/in/alfred-kinyua-25927a64)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/EasyPanther/Hello-world/issues.
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
